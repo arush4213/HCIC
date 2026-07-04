@@ -88,9 +88,9 @@ Dataset Split:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/hinglish-bert-classifier.git
+git clone https://github.com/arush4213/HCIC.git
 
-cd hinglish-bert-classifier
+cd HCIC
 ```
 
 ## Install Dependencies
