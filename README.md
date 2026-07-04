@@ -302,7 +302,7 @@ This project follows responsible AI principles.
 
 This project is licensed under the MIT License.
 
-See the LICENSE file for details.
+See the [License](https://github.com/arush4213/HCIC/blob/main/LICENSE) file for details. 
 
 ---
 
