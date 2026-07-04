@@ -51,9 +51,9 @@ Tested on **302 unseen SMS messages**.
 
 | Category | Count |
 |----------|------:|
-| Total Samples | 2,164 |
+| Total Samples | 2,098 |
 | Phishing (Label 1) | 970 |
-| Legitimate / Ham (Label 0) | 1,194 |
+| Legitimate / Ham (Label 0) | 1,128 |
 
 Dataset Split:
 
